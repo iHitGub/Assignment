@@ -17,6 +17,14 @@ import com.zaid.www.util.PaddedWriter;
 import com.zaid.www.util.PrettyPrinter;
 import com.zaid.www.util.Util;
 
+/***
+ * Class to test the TestRBTree. Test mainly focus on testing insert, find
+ * methods.
+ * 
+ * @author Zaid Ahmad
+ * 
+ */
+
 public class TestRBTree {
 	
 	private int TREE_SIZE_BIG = 100;
