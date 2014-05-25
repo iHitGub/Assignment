@@ -10,6 +10,14 @@ import org.junit.Test;
 import com.zaid.www.cl.CList;
 import com.zaid.www.josephus.Josephus;
 
+
+/***
+ * Test class for the Josephus problem using the C List.
+ * 
+ * @author Zaid Ahmad
+ * @version 1.0 
+ */
+
 public class TestJosephus {
 
 	@Before
