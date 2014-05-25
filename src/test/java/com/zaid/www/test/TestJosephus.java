@@ -14,7 +14,7 @@ import com.zaid.www.josephus.Josephus;
  * Test class for the Josephus problem.
  * 
  * @author Zaid Ahmad
- * 
+ * @version 1.0 
  */
 public class TestJosephus {
 
